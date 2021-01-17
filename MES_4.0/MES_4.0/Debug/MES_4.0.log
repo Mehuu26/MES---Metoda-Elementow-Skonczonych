@@ -1,0 +1,16 @@
+﻿  pch.cpp
+  Gauss.cpp
+  Jacobi.cpp
+  MES_4.0.cpp
+c:\users\michał\source\repos\mes_4.0\mes_4.0\mes_4.0.cpp(36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\michał\source\repos\mes_4.0\mes_4.0\mes_4.0.cpp(37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\michał\source\repos\mes_4.0\mes_4.0\mes_4.0.cpp(38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\michał\source\repos\mes_4.0\mes_4.0\mes_4.0.cpp(39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\michał\source\repos\mes_4.0\mes_4.0\mes_4.0.cpp(155): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\michał\source\repos\mes_4.0\mes_4.0\mes_4.0.cpp(156): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\michał\source\repos\mes_4.0\mes_4.0\mes_4.0.cpp(218): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Trzypunktowy_s_c.cpp
+c:\users\michał\source\repos\mes_4.0\mes_4.0\trzypunktowy_s_c.cpp(15): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\michał\source\repos\mes_4.0\mes_4.0\trzypunktowy_s_c.cpp(25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  MES_4.0.vcxproj -> C:\Users\Michał\source\repos\MES_4.0\Debug\MES_4.0.exe
